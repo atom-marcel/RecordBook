@@ -4,6 +4,7 @@ Eine Android App die wie ein Berichtsheft Tätigkeiten und ihre Uhrzeiten aufzei
 Kurzanleitung der App:
 - Das Datum ist anklickbar um eine Kalenderauswahl tätigen zu können.
 - Jeder Eintrag ist anklickbar um ihn zu verändern oder zu löschen.
+- Mit dem unteren rechten Button können neue Einträge hinzugefügt werden.
 
 Der Ordner RecordBook kann in Android Studio geöffnet werden. Damit kann man die App selbst weiterentwickeln.
 Ansonsten sind die wichtigsten Quelldateien in RecordBook/app/src/main/java/com/example/recordbook zu finden.
