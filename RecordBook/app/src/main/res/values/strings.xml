@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecordBook</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Übersicht</string>
+    <string name="second_fragment_label">Neuer Eintrag</string>
+    <string name="edit_fragment_label">Ändern</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="toast_button_text">Toast</string>
+    <string name="random_button_text">Random</string>
+    <string name="count_button_text">Count</string>
+    <string name="random_heading">Here is a random number between 0 and %d</string>
+    <string name="second_heading">Tätigkeit:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
