@@ -1,5 +1,5 @@
 # RecordBook
-Eine Android App die wie ein Berichtsheft Tätigkeiten und ihre Uhrzeiten aufzeichnet. Eine ausführbare .apk Datei ist im Ordner APK zu finden. Damit wird die App direkt auf dem Smartphone installiert.
+Eine Android App die wie ein Berichtsheft Tätigkeiten und ihre Uhrzeiten aufzeichnet. Eine ausführbare .apk Datei ist im Ordner APK zu finden, damit wird die App direkt auf dem Smartphone installiert.
 
 Kurzanleitung der App:
 - Das Datum ist anklickbar um eine Kalenderauswahl tätigen zu können.
